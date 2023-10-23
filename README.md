@@ -1,11 +1,14 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a basic react project for beginners to understand the fundamentals of reacts like -> <br>
+1. Linkng CSS
+2. working with components
+3. Responsive
+4. Props
+5. React-router-dom
 
-Currently, two official plugins are available:
+Note : this project not includes react hooks
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 "# techystar" 
 "# techystar" 
 "# techystar" 
